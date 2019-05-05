@@ -1,0 +1,1 @@
+﻿clf.load_encoder('pretrained_encoder')
